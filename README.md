@@ -4,7 +4,7 @@
 	
 ### Host1	
 
-`IP:192.168.1.100
+    `IP:192.168.1.100
 NETMASK:255.255.255.0
 GATEWAY:192.168.1.1
 /etc/hostname : galera1
