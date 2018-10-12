@@ -1,6 +1,6 @@
 # DEBIAN MARIADB MYSQLD RSYNC
 
-##1.- Configurar tus maquinas (EJEMPLO): 
+## 1.- Configurar tus maquinas (EJEMPLO): 
 	###.-Host1	
 	IP:192.168.1.100
 	NETMASK:255.255.255.0
