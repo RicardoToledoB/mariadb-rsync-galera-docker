@@ -3,11 +3,12 @@
 ## 1.- Configurar tus maquinas (EJEMPLO): 
 	
 ### Host1	
-**IP:192.168.1.100
+
+`IP:192.168.1.100
 NETMASK:255.255.255.0
 GATEWAY:192.168.1.1
 /etc/hostname : galera1
-/etc/hosts : 192.168.1.100 galera1
+/etc/hosts : 192.168.1.100 galera1`
 
 ### Host2
 **IP:192.168.1.101
