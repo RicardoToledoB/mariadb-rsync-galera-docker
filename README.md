@@ -1,6 +1,6 @@
-# DEBIAN MARIADB MYSQLD RSYNC
+# Debian Mariadb Galera Cluster Rsync
 
-## 1.- Configurar tus maquinas (EJEMPLO): 
+## 1.- Configurar tus maquinas (Ejemplo): 
 	
 ### Host1	
 
